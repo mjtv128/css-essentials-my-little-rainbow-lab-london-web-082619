@@ -21,10 +21,20 @@ div {
   border-color: #ff0;
 }
 
+#green{
+  border-color: #00bc3f;
+}
 
+#blue{
+  border-color: #06f;
+}
+
+#indigo{
+  border-color: #8a2be2;
+}
 
 #violet{
-  border-bottom-color:#d300c9;
+  border-color:#d300c9;
 }
 
 
